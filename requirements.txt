@@ -7,4 +7,4 @@ py-tgcalls
 py-yt-search~=0.5.7
 python-dotenv~=1.2.1
 yt-dlp[default]>=2025.12.8
-git+https://github.com/corpse-x/Pyrogram.git@master
+git+https://github.com/corpse-x/Pyrogram.git
